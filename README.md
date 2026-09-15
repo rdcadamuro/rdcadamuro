@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rdcadamuro/rdcadamuro/main/logo.svg" width="260" alt="Bioinfo for All"/>
+  <img src="https://raw.githubusercontent.com/rdcadamuro/rdcadamuro/main/logo.png" width="260" alt="Bioinfo for All"/>
 </p>
 
 <p align="center">
