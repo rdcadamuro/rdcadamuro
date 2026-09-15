@@ -12,12 +12,12 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Metagenomics%20%7C%20Viromics-334336?style=flat-square" alt="focus"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Burgos%20🇪🇸%20↔%20Brasil%20🇧🇷-A45C3D?style=flat-square" alt="location"/>
+  <img src="https://img.shields.io/badge/Location-Burgos%20ES%20%E2%86%94%20Brasil%20BR-A45C3D?style=flat-square" alt="location"/>
 </p>
 
 ---
 
-## 🔬 Sobre mim
+## Sobre mim
 
 ```python
 researcher = {
@@ -25,13 +25,13 @@ researcher = {
     "degree"    : "PhD em Bioinformática",
     "research"  : ["Metagenômica", "Viromics", "Análise de fagos", "Oxford Nanopore"],
     "location"  : "Burgos, Espanha  ←→  Brasil",
-    "languages" : ["Python 🐍", "R 📊", "Bash 🖥️"],
+    "languages" : ["Python", "R", "Bash"],
 }
 ```
 
 ---
 
-## 🧰 Ferramentas & Skills
+## Ferramentas & Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-334336?style=for-the-badge&logo=python&logoColor=F8F5F2"/>
@@ -51,47 +51,25 @@ researcher = {
 
 ---
 
-## 🚀 Repositórios em Destaque
+## Repositórios em Destaque
 
 <p align="center">
   <a href="https://github.com/rdcadamuro/Virgos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdcadamuro&repo=Virgos&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdcadamuro&repo=Virgos&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2&cache_seconds=86400" />
   </a>
   &nbsp;
   <a href="https://github.com/rdcadamuro/NanoPurify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdcadamuro&repo=NanoPurify&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdcadamuro&repo=NanoPurify&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2&cache_seconds=86400" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/rdcadamuro/livestock-metagenomics-brazil-spain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdcadamuro&repo=livestock-metagenomics-brazil-spain&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdcadamuro&repo=livestock-metagenomics-brazil-spain&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2&cache_seconds=86400" />
   </a>
   &nbsp;
   <a href="https://github.com/rdcadamuro/Thesis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdcadamuro&repo=Thesis&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdcadamuro&repo=Thesis&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2&cache_seconds=86400" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdcadamuro&show_icons=true&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdcadamuro&layout=compact&border_color=4A5D4E&title_color=334336&text_color=2C2C2C&bg_color=F8F5F2" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rdcadamuro&border=4A5D4E&ring=334336&fire=A45C3D&currStreakLabel=334336&background=F8F5F2&stroke=4A5D4E&sideLabels=2C2C2C&dates=5C554F" />
-</p>
-
----
-
-## 🧬 Contribuição — Mapa de Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdcadamuro&bg_color=F8F5F2&color=334336&line=4A5D4E&point=A45C3D&area=true&hide_border=false&border_color=4A5D4E" width="95%"/>
 </p>
 
 ---
