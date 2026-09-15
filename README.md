@@ -4,28 +4,13 @@
 </p>
 
 <p align="center">
-  <!-- Logo SVG do site -->
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 100" width="260" height="81">
-    <g transform="translate(14 10)" fill="none" stroke="#4C6045" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-      <polygon points="45,4 62,13.5 62,32.5 45,42 28,32.5 28,13.5"></polygon>
-      <path d="M45 23 L28 13.5 M45 23 L62 13.5 M45 23 V42" stroke-width="1.3"></path>
-      <path d="M45 42 V46 M38 46 H52 M42 46 V70 M48 46 V70"></path>
-      <path d="M42 52 H48 M42 58 H48 M42 64 H48" stroke-width="1.3"></path>
-      <path d="M35 72 H55"></path>
-      <path d="M37 72 L30 81 L26 90 M42 73 L39 82 L40 91 M48 73 L51 82 L50 91 M53 72 L60 81 L64 90" stroke-width="1.6"></path>
-      <path d="M40 74 V81 M45 74 V82 M50 74 V81" stroke-width="1.2"></path>
-    </g>
-    <text x="112" y="52" font-family="Spectral, serif" font-weight="500" font-size="34" letter-spacing="-0.5" fill="#23251F">Bioinfo</text>
-    <text x="112" y="72" font-family="'IBM Plex Mono', monospace" font-size="13" letter-spacing="3.3" fill="#4C6045">FOR ALL</text>
-  </svg>
+  <img src="https://raw.githubusercontent.com/rdcadamuro/rdcadamuro/main/logo.svg" width="260" alt="Bioinfo for All"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/rdcadamuro">
-    <img src="https://komarev.com/ghpvc/?username=rdcadamuro&label=Profile%20views&color=4A5D4E&style=flat-square" alt="profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=rdcadamuro&label=Profile%20views&color=4A5D4E&style=flat-square" alt="profile views"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Metagenomics%20%7C%20Viromics-334336?style=flat-square&logoColor=F8F5F2" alt="focus"/>
+  <img src="https://img.shields.io/badge/Focus-Metagenomics%20%7C%20Viromics-334336?style=flat-square" alt="focus"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Burgos%20🇪🇸%20↔%20Brasil%20🇧🇷-A45C3D?style=flat-square" alt="location"/>
 </p>
@@ -49,25 +34,19 @@ researcher = {
 ## 🧰 Ferramentas & Skills
 
 <p align="center">
-
   <img src="https://img.shields.io/badge/Python-334336?style=for-the-badge&logo=python&logoColor=F8F5F2"/>
   <img src="https://img.shields.io/badge/R-4A5D4E?style=for-the-badge&logo=r&logoColor=F8F5F2"/>
   <img src="https://img.shields.io/badge/Bash-3A433A?style=for-the-badge&logo=gnubash&logoColor=F8F5F2"/>
-
   <br/>
-
   <img src="https://img.shields.io/badge/Snakemake-4A5D4E?style=for-the-badge&logoColor=F8F5F2"/>
   <img src="https://img.shields.io/badge/Nextflow-334336?style=for-the-badge&logoColor=F8F5F2"/>
   <img src="https://img.shields.io/badge/QIIME2-A45C3D?style=for-the-badge&logoColor=F8F5F2"/>
   <img src="https://img.shields.io/badge/Oxford%20Nanopore-3A433A?style=for-the-badge&logoColor=F8F5F2"/>
-
   <br/>
-
   <img src="https://img.shields.io/badge/Linux-4A5D4E?style=for-the-badge&logo=linux&logoColor=F8F5F2"/>
   <img src="https://img.shields.io/badge/Docker-334336?style=for-the-badge&logo=docker&logoColor=F8F5F2"/>
   <img src="https://img.shields.io/badge/Git-A45C3D?style=for-the-badge&logo=git&logoColor=F8F5F2"/>
   <img src="https://img.shields.io/badge/Conda-4A5D4E?style=for-the-badge&logo=anaconda&logoColor=F8F5F2"/>
-
 </p>
 
 ---
@@ -83,7 +62,6 @@ researcher = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdcadamuro&repo=NanoPurify&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/rdcadamuro/livestock-metagenomics-brazil-spain">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdcadamuro&repo=livestock-metagenomics-brazil-spain&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2" />
@@ -99,13 +77,13 @@ researcher = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdcadamuro&show_icons=true&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2&hide_border=false&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rdcadamuro&show_icons=true&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2&count_private=true" height="165"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdcadamuro&layout=compact&border_color=4A5D4E&title_color=334336&text_color=2C2C2C&bg_color=F8F5F2" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdcadamuro&border=4A5D4E&ring=334336&fire=A45C3D&currStreakLabel=334336&background=F8F5F2&stroke=4A5D4E&sideLabels=2C2C2C&dates=5C554F" />
+  <img src="https://streak-stats.demolab.com/?user=rdcadamuro&border=4A5D4E&ring=334336&fire=A45C3D&currStreakLabel=334336&background=F8F5F2&stroke=4A5D4E&sideLabels=2C2C2C&dates=5C554F" />
 </p>
 
 ---
