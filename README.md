@@ -53,20 +53,34 @@ researcher = {
 
 ## Repositórios em Destaque
 
-<p align="center">
-  <a href="https://github.com/rdcadamuro/Virgos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdcadamuro&repo=Virgos&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2&cache_seconds=86400" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/rdcadamuro/NanoPurify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdcadamuro&repo=NanoPurify&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2&cache_seconds=86400" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/rdcadamuro/livestock-metagenomics-brazil-spain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdcadamuro&repo=livestock-metagenomics-brazil-spain&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2&cache_seconds=86400" />
-  </a>
-</p>
+<table width="100%" align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="33%" align="center" style="border: none;">
+      <a href="https://github.com/rdcadamuro/Virgos">
+        <img src="https://raw.githubusercontent.com/rdcadamuro/rdcadamuro/main/icon_virgos.png" width="80" alt="Virgos Icon"/><br/>
+        <b>Virgos</b>
+      </a><br/>
+      <small>Identificação e análise de fagos</small><br/>
+      <img src="https://img.shields.io/github/stars/rdcadamuro/Virgos?style=flat-square&color=4A5D4E&logo=github&logoColor=white" />
+    </td>
+    <td width="33%" align="center" style="border: none;">
+      <a href="https://github.com/rdcadamuro/NanoPurify">
+        <img src="https://raw.githubusercontent.com/rdcadamuro/rdcadamuro/main/icon_nanopurify.png" width="80" alt="NanoPurify Icon"/><br/>
+        <b>NanoPurify</b>
+      </a><br/>
+      <small>MAG recovery para Nanopore</small><br/>
+      <img src="https://img.shields.io/github/stars/rdcadamuro/NanoPurify?style=flat-square&color=4A5D4E&logo=github&logoColor=white" />
+    </td>
+    <td width="33%" align="center" style="border: none;">
+      <a href="https://github.com/rdcadamuro/livestock-metagenomics-brazil-spain">
+        <img src="https://raw.githubusercontent.com/rdcadamuro/rdcadamuro/main/icon_livestock.png" width="80" alt="Livestock Metagenomics Icon"/><br/>
+        <b>Livestock Metagenomics</b>
+      </a><br/>
+      <small>Metagenômica Brasil-Espanha</small><br/>
+      <img src="https://img.shields.io/github/stars/rdcadamuro/livestock-metagenomics-brazil-spain?style=flat-square&color=4A5D4E&logo=github&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
