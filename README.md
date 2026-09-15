@@ -66,10 +66,6 @@ researcher = {
   <a href="https://github.com/rdcadamuro/livestock-metagenomics-brazil-spain">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdcadamuro&repo=livestock-metagenomics-brazil-spain&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2&cache_seconds=86400" />
   </a>
-  &nbsp;
-  <a href="https://github.com/rdcadamuro/Thesis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rdcadamuro&repo=Thesis&border_color=4A5D4E&title_color=334336&icon_color=A45C3D&text_color=2C2C2C&bg_color=F8F5F2&cache_seconds=86400" />
-  </a>
 </p>
 
 ---
