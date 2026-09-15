@@ -57,7 +57,7 @@ researcher = {
   <tr>
     <td width="33%" align="center" style="border: none;">
       <a href="https://github.com/rdcadamuro/Virgos">
-        <img src="https://raw.githubusercontent.com/rdcadamuro/rdcadamuro/main/icon_virgos.png" width="80" alt="Virgos Icon"/><br/>
+        <img src="https://raw.githubusercontent.com/rdcadamuro/rdcadamuro/main/repo_logo_virgos.jpg" width="120" style="border-radius: 15px;" alt="Virgos Logo"/><br/>
         <b>Virgos</b>
       </a><br/>
       <small>Identificação e análise de fagos</small><br/>
@@ -65,7 +65,7 @@ researcher = {
     </td>
     <td width="33%" align="center" style="border: none;">
       <a href="https://github.com/rdcadamuro/NanoPurify">
-        <img src="https://raw.githubusercontent.com/rdcadamuro/rdcadamuro/main/icon_nanopurify.png" width="80" alt="NanoPurify Icon"/><br/>
+        <img src="https://raw.githubusercontent.com/rdcadamuro/rdcadamuro/main/repo_logo_nanopurify.jpg" width="120" style="border-radius: 15px;" alt="NanoPurify Logo"/><br/>
         <b>NanoPurify</b>
       </a><br/>
       <small>MAG recovery para Nanopore</small><br/>
@@ -73,7 +73,7 @@ researcher = {
     </td>
     <td width="33%" align="center" style="border: none;">
       <a href="https://github.com/rdcadamuro/livestock-metagenomics-brazil-spain">
-        <img src="https://raw.githubusercontent.com/rdcadamuro/rdcadamuro/main/icon_livestock.png" width="80" alt="Livestock Metagenomics Icon"/><br/>
+        <img src="https://raw.githubusercontent.com/rdcadamuro/rdcadamuro/main/repo_logo_livestock.jpg" width="120" style="border-radius: 15px;" alt="Livestock Metagenomics Logo"/><br/>
         <b>Livestock Metagenomics</b>
       </a><br/>
       <small>Metagenômica Brasil-Espanha</small><br/>
